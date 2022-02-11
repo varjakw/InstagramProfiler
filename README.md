@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 Run the program with
 ```
-python InstgramProfile.py <username>
+python Profiler.py <username>
 ```
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
